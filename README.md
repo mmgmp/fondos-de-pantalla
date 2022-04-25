@@ -1,3 +1,3 @@
 # fondos-de-pantalla
 
-Aqui estan mis fondos de pantalla favoritos.
+Este repositoria es una coleccion de fondos de pantalla que me gustan, mayormente utilizado para proposito de almacenar.
